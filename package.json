@@ -1,0 +1,19 @@
+{
+  "name": "qure-xslt",
+  "version": "1.0.0",
+  "description": "Wrapper for XSL Transformations in QureJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbi99/qure-xslt.git"
+  },
+  "author": "Hakan Bilgin <hbi@longscript.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbi99/qure-xslt/issues"
+  },
+  "homepage": "https://github.com/hbi99/qure-xslt#readme"
+}
